@@ -18,18 +18,9 @@ Step 3: The closing parenthesis
 for the handleDecrement function
 is missing the curly braces.
 
-Step 4: There is no space between
-the if statement and the opening
-parenthesis inside the
-handleDecrement function.
-
 Step 5: The onClick event handler
 for the "Increment" button is 
-incorrectly written as onclick.
-
-Step 6: The onclick attribute
-of the "Increment" button should
-be onClick.
+incorrectly written.
 
 Step 7: The closing </div> tag is 
 missing a forward slash.
